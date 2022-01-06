@@ -1,0 +1,19 @@
+body{
+    overflow: hidden;
+    background: url(BACKGROUND.jpg);
+    background-color: cover;
+    font-family:"late ",sans-serif;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: "center";
+}
+.search form{
+
+    margin-bottom: 2rem;
+    display: flex;}
+
